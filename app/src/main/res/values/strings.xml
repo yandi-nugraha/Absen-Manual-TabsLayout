@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Absensi</string>
+
+    <string name="judul">
+        <b>Absen Manual</b>
+    </string>
+    
+    <string-array name="array">
+        <item>Hadir tepat waktu</item>
+        <item>Terlambat</item>
+        <item>Izin</item>
+        <item>Sakit</item>
+    </string-array>
+</resources>
