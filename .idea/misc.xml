@@ -4,8 +4,12 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Yandi/AndroidStudioProjects/Absensi/app/src/main/res/drawable/box.xml" value="0.1905" />
+        <entry key="..\:/Users/Yandi/AndroidStudioProjects/Absensi/app/src/main/res/drawable/ic_person.xml" value="0.1975" />
         <entry key="..\:/Users/Yandi/AndroidStudioProjects/Absensi/app/src/main/res/drawable/rounded_corner.xml" value="0.188" />
+        <entry key="..\:/Users/Yandi/AndroidStudioProjects/Absensi/app/src/main/res/layout/activity_login.xml" value="0.28306159420289856" />
         <entry key="..\:/Users/Yandi/AndroidStudioProjects/Absensi/app/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Yandi/AndroidStudioProjects/Absensi/app/src/main/res/layout/fragment_daftar.xml" value="0.35572916666666665" />
+        <entry key="..\:/Users/Yandi/AndroidStudioProjects/Absensi/app/src/main/res/layout/fragment_masuk.xml" value="0.35572916666666665" />
       </map>
     </option>
   </component>

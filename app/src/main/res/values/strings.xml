@@ -4,11 +4,13 @@
     <string name="judul">
         <b>Absen Manual</b>
     </string>
-    
+
     <string-array name="array">
         <item>Hadir tepat waktu</item>
         <item>Terlambat</item>
         <item>Izin</item>
         <item>Sakit</item>
     </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
